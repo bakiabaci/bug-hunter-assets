@@ -6,3 +6,4 @@ Used for embedding visual proof (pinpoint screenshots) directly into GitHub issu
 ## Directories
 - `pbgui/`: Visual evidence for `msei99/pbgui`
 - `sentinel/`: Visual evidence for `dmcteknoloji/sentinel-projects`
+- `general/`: General operational screenshots and diagnostics
